@@ -1,4 +1,4 @@
-package demos
+package com.example.demo
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
